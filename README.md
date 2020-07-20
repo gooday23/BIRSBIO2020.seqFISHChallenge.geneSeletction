@@ -10,6 +10,6 @@
 
 _powered by [fastpages](https://github.com/fastai/fastpages)_
 
-[BIRSBIO2020 seqFish - gene selection](https://github.com/gooday23/BIRSBIO2020.seqFISH.geneSeletctionChallenge)
+[BIRSBIO2020 seqFish - gene selection](https://gooday23.github.io/BIRSBIO2020.seqFISHChallenge.geneSeletction/seqfish/scrna/2020/07/20/BIRS_Biointegration-seqFish_challenge-geneselection.html)
 
 
