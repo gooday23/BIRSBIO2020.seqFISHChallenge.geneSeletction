@@ -1,0 +1,17 @@
+name: BIRSseqfish
+channels:
+  - conda-forge
+  - defaults
+  - bioconda
+dependencies:
+  - scikit-learn
+  - pandas
+  - numpy
+  - seaborn
+  - python=3.7
+  - scipy
+  - matplotlib
+  - scanpy
+  - ipykernel
+  - qtconsole
+  - yellowbrick
